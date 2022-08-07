@@ -42,7 +42,7 @@
         <div class="carousel-item">
           <img
             src="../../assets/arte/talleres-de-iniciacion-artistica-y-artesanal-y-mosaiquismo/IMG_20210322_164211970.jpg"
-            class="d-block w-100"
+            class="home__img"
             alt="..."
           />
           <div class="carousel-caption d-none d-md-block">
@@ -53,7 +53,7 @@
         <div class="carousel-item">
           <img
             src="../../assets/entrenamiento/defensa-transfeminista/Screenshot_20220710-114114.jpg"
-            class="d-block w-100"
+            class="home__img"
             alt="..."
           />
           <div class="carousel-caption d-none d-md-block">
