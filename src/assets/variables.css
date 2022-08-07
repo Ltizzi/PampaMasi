@@ -1,0 +1,15 @@
+:root {
+  --toast: #818780;
+  --white: #fbfffa;
+  --light-green: #ddf9d6;
+  --gray: #e4eae4;
+  --green: #76d9ad;
+  --dark-green: #67bc96;
+  --cyan: #41d7df;
+  --blue: #2ab4f8;
+  --blueToGreen: linear-gradient(to left, var(--blue), var(--green));
+  --blueToGreenVertical: linear-gradient(to bottom, var(--blue), var(--green));
+  --barrio: "Barrio", cursive;
+  --arquitect: "Architects Daughter", cursive;
+  --belleza: "Belleza", sans-serif;
+}
